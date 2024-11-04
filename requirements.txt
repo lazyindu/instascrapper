@@ -2,3 +2,4 @@ instagram_private_api
 socks
 telethon
 requests
+pysocks
